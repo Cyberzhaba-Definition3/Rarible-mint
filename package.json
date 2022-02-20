@@ -1,0 +1,19 @@
+{
+    "type": "module",
+    "devDependencies": {
+      "@rarible/sdk": "^0.8.37"
+    },
+    "dependencies": {
+      "@rarible/connector": "^0.8.30",
+      "@rarible/connector-walletconnect": "^0.8.30",
+      "@rarible/test-provider": "^0.8.0",
+      "@rarible/web3-ethereum": "^0.12.47",
+      "ethereumjs-wallet": "^1.0.2",
+      "form-data": "^4.0.0",
+      "ts-node": "^10.5.0",
+      "tslib": "2.3.1",
+      "web3": "^1.7.0",
+      "web3-provider-engine": "^16.0.3"
+    }
+  }
+  
